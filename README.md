@@ -80,7 +80,7 @@ Global random seed: `21` (Python, NumPy, TensorFlow)
 
 ### Sample Digits
 
-![Sample Digits](plots/sample_digits)
+![Sample Digits](plots/sample_digits.png)
 > *Sample images from each of the 10 digit classes (0–9)*
 
 ---
