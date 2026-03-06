@@ -80,7 +80,7 @@ Global random seed: `21` (Python, NumPy, TensorFlow)
 
 ### Sample Digits
 
-<!-- Add sample grid image here -->
+![Sample Digits](plots/sample_digits)
 > *Sample images from each of the 10 digit classes (0–9)*
 
 ---
@@ -200,13 +200,13 @@ Input (28, 28, 1)
 ### Training Curves
 
 #### ANN — Loss & Accuracy
-<!-- plots/ann_training_history.png -->
+![ANN - Loss & Accuracy](plots/ann_training_history.png)
 
 #### CNN — Loss & Accuracy
-<!-- plots/cnn_training_history.png -->
+![CNN - Loss & Accuracy](plots/cnn_training_history.png)
 
 #### Advanced CNN — Loss & Accuracy
-<!-- plots/advanced_cnn_training_history.png -->
+![Advanced CNN - Loss & Accuracy](plots/advanced_cnn_training_history.png)
 
 ---
 
